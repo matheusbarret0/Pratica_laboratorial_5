@@ -1,0 +1,816 @@
+# Reading pref.tcl
+# OpenFile C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/trabalho2.mpf
+# Loading project trabalho2
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.senoide_tb
+# vsim -gui work.senoide_tb 
+# Start time: 07:40:08 on May 31,2023
+# Loading work.senoide_tb
+# Loading work.senoide
+add wave -r /*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(13)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(13)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(13)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(13)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+restart
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 1025 of file "seno.txt". (Current address [1024], address range [0:1023])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 1025 of file "seno.txt". (Current address [1024], address range [0:1023])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 101 of file "seno.txt". (Current address [100], address range [0:99])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "data.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(92)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "data.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(92)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "data.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(92)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "data.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(92)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4096 of file "seno.txt". (Current address [4095], address range [0:4094])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 4001 of file "seno.txt". (Current address [4000], address range [0:3999])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 2001 of file "seno.txt". (Current address [2000], address range [0:1999])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 2001 of file "seno.txt". (Current address [2000], address range [0:1999])    : C:/Users/mathe/OneDrive/Documentos/Projetos/Trabalho_2/ModelSim/senoide.v(14)
+#    Time: 0 ps  Iteration: 0  Instance: /senoide_tb/u0
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+restart
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+restart
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+restart
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+run
+run
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+run
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Compile of senoide.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.senoide_tb
+# Loading work.senoide
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# End time: 13:29:23 on May 31,2023, Elapsed time: 5:49:15
+# Errors: 0, Warnings: 1
